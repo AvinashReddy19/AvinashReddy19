@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash Reddy Challa</h1>
 <h3 align="center">👋 Hi there! I'm a passionate Computer Science student with a love for technology and innovation. 💡 I excel in solving complex problems and creating smart solutions using my technical expertise and analytical skills. 🛠️🧠 I’m constantly seeking new learning opportunities and striving to excel in the ever-evolving domains of Web Development 🌐, Machine Learning 🤖, Competitive Programming 🏆, and Problem-Solving 🔍. With a solid grounding in Data Structures and Algorithms 📊, I design efficient and optimized solutions. Let’s connect and explore the limitless potential of technology together! 🚀</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashreddy19" alt="avinashreddy19" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AvinashReddy19](https://github.com/AvinashReddy19)
 
